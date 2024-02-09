@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Student notebook
-??_py_intro.ipynb
+*_py_intro.ipynb
